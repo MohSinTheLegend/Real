@@ -81,7 +81,7 @@ c2 = "\033[0;97m"
 c3 = "\033[1;31m"
 #MyLogo
 def logo():
-    os.system('echo -e "\n\n _ MOHSIN THE BRAND
+    os.system('echo -e "\n\n
  ______\n\n-----------------------------------------------\n\n➣ FACEBOOK : MOHSIN ALI\n➣ Github : https://github.com/MohsinTheLegend\n➣ Fb Page : https://m.facebook.com/MohsinAliOfficial\nWhatsApp :03063112***\n-----------------------------------------------" | lolcat')
 def Mohsin_Ali():
     os.system("clear")
